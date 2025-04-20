@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+djoser = "*"
+django-debug-toolbar = "*"
+djangorestframework-xml = "*"
+djangorestframework-simplejwt = "~=5.2.1"
+setuptools = "*"
+drf-yasg = "*"
+django-cors-headers = "*"
+djangorestframework = "*"
+bleach = "*"
+django-filter = "*"
+django = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
