@@ -15,6 +15,7 @@ djangorestframework = "*"
 bleach = "*"
 django-filter = "*"
 django = "*"
+django-environ = "*"
 
 [dev-packages]
 
